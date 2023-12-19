@@ -1,5 +1,7 @@
 **A new version has been released for the current vMenu-Customz.**
 
+Download the menu here [Download vMenu](https://github.com/takeoverzzz/vMenu-Customz/releases/tag/v2.3.5)
+
 
 
 ###  _DISCLAIMER_
